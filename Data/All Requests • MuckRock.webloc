@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://www.muckrock.com/foi/list/?q=RIPA&amp;status=&amp;has_embargo=&amp;has_crowdfund=&amp;minimum_pages=&amp;date_range_min=&amp;date_range_max=&amp;file_types=&amp;sort=date_submitted&amp;order=desc</string>
-</dict>
-</plist>
