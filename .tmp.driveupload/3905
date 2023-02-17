@@ -1,0 +1,34 @@
+0000000000000000000000000000000000000000 8b5c2c240260724ce0a9b9767f8d7f20ceae9219 KC Harris <89766547+kch0p@users.noreply.github.com> 1664395068 -0700	clone: from https://github.com/kch0p/senior-thesis-pretextual-stops.git
+8b5c2c240260724ce0a9b9767f8d7f20ceae9219 624383ea65486c8e41efb81372a207b89dba69f5 KC Harris <89766547+kch0p@users.noreply.github.com> 1664395251 -0700	commit: Adding Data/Sources
+624383ea65486c8e41efb81372a207b89dba69f5 335aeff31437091541d167c9f6bce0ffa6983845 KC Harris <89766547+kch0p@users.noreply.github.com> 1664399844 -0700	commit: Converting XLSX sheets to CSV
+335aeff31437091541d167c9f6bce0ffa6983845 6c4e9878932b77348cf50c4ef0d72d09e5edc0a8 KC Harris <89766547+kch0p@users.noreply.github.com> 1665777986 -0700	commit: Descriptive Formatting
+6c4e9878932b77348cf50c4ef0d72d09e5edc0a8 eb527d7468f0a720420f2596bbc8405b861ddd21 KC Harris <89766547+kch0p@users.noreply.github.com> 1665990090 -0700	commit: Major Formatting for Initial VOD Test
+eb527d7468f0a720420f2596bbc8405b861ddd21 a304063f32aba1e1df3bf3a61a2351fd0667cada KC Harris <89766547+kch0p@users.noreply.github.com> 1666036719 -0700	commit: Continued Formatting
+a304063f32aba1e1df3bf3a61a2351fd0667cada 08be1229ff5df7ac2d8de13bd699f76cc05e7589 KC Harris <89766547+kch0p@users.noreply.github.com> 1666126524 -0700	commit: All Descriptive Formatting Finished
+08be1229ff5df7ac2d8de13bd699f76cc05e7589 1a8365fc06a660f7ed14d7b5c9b35893bb2951d0 KC Harris <89766547+kch0p@users.noreply.github.com> 1666573552 -0700	commit: Final Revisions Before Deadline #2
+1a8365fc06a660f7ed14d7b5c9b35893bb2951d0 3675c9e3cfc7beee4d130590bd07b849ba8adb75 KC Harris <89766547+kch0p@users.noreply.github.com> 1666807488 -0700	commit: Converting datetime objects to total minutes
+3675c9e3cfc7beee4d130590bd07b849ba8adb75 24ec80df5b81694c3d463795a945af291f997280 KC Harris <89766547+kch0p@users.noreply.github.com> 1667438806 -0700	commit: Civil Twilight Segments
+24ec80df5b81694c3d463795a945af291f997280 f28770a9c2bb52807d55d64bd9090e1ea53f20f6 KC Harris <89766547+kch0p@users.noreply.github.com> 1667792195 -0800	commit: Finished Wave 1 Location Saves and Reformatted
+f28770a9c2bb52807d55d64bd9090e1ea53f20f6 fdb69778585f3bf22ff8390f950d227a9e267282 KC Harris <89766547+kch0p@users.noreply.github.com> 1667940829 -0800	commit: Location
+fdb69778585f3bf22ff8390f950d227a9e267282 9a5045071b799afd6a957e662c7d020d7dcf7d80 KC Harris <89766547+kch0p@users.noreply.github.com> 1667943303 -0800	commit: Dusk Variable now Included
+9a5045071b799afd6a957e662c7d020d7dcf7d80 7c0d21d9ec4107fdfee5826c4f1f1ce3b8766d7f KC Harris <89766547+kch0p@users.noreply.github.com> 1668362814 -0800	commit: pull census tract from lat lon
+7c0d21d9ec4107fdfee5826c4f1f1ce3b8766d7f dff740b1fae17098b838699969bcd54648ad1b3c KC Harris <89766547+kch0p@users.noreply.github.com> 1668367249 -0800	commit: key
+dff740b1fae17098b838699969bcd54648ad1b3c 7c0d21d9ec4107fdfee5826c4f1f1ce3b8766d7f KC Harris <89766547+kch0p@users.noreply.github.com> 1668367263 -0800	checkout: moving from main to Simplified-V2.0
+7c0d21d9ec4107fdfee5826c4f1f1ce3b8766d7f 57edca0b1aa0608f0b9bbc29a0d1594a73f2c17d KC Harris <89766547+kch0p@users.noreply.github.com> 1668367398 -0800	commit: Kye
+57edca0b1aa0608f0b9bbc29a0d1594a73f2c17d e91c4957330be5c48f95f630a83ba58468cc7046 KC Harris <89766547+kch0p@users.noreply.github.com> 1668367463 -0800	commit: module with new functions
+e91c4957330be5c48f95f630a83ba58468cc7046 447229825e395381d019c46a8a307f18d3b2589b KC Harris <89766547+kch0p@users.noreply.github.com> 1668367497 -0800	commit: .py
+447229825e395381d019c46a8a307f18d3b2589b 00f7a557981924df197e4f381717803ff4bd9e27 KC Harris <89766547+kch0p@users.noreply.github.com> 1668369374 -0800	commit: Simplifying Dusk_Mins and adding Dawn/Sunrise
+00f7a557981924df197e4f381717803ff4bd9e27 36a1f1c7cd3b96e5bb30022fcd9120561582311c KC Harris <89766547+kch0p@users.noreply.github.com> 1668372622 -0800	commit: included after dawn and before dusk variables in expandced
+36a1f1c7cd3b96e5bb30022fcd9120561582311c 33c93a3d12447ad8afeeaa6dd6072ae08ac94e60 KC Harris <89766547+kch0p@users.noreply.github.com> 1668389316 -0800	commit: Got a working model
+33c93a3d12447ad8afeeaa6dd6072ae08ac94e60 0d97fc40af600fea44f081fb7b8eef23e3d5191a KC Harris <89766547+kch0p@users.noreply.github.com> 1668507139 -0800	commit: final working NOM+gv3 code
+0d97fc40af600fea44f081fb7b8eef23e3d5191a 54c9b29f122b81a3b05f4380ecdc792b0d92c611 KC Harris <89766547+kch0p@users.noreply.github.com> 1668544113 -0800	commit: lat lon conversion completed for LA ITP
+54c9b29f122b81a3b05f4380ecdc792b0d92c611 c9242383033e5fba64ace6f0322f66f531908ef7 KC Harris <89766547+kch0p@users.noreply.github.com> 1669833888 -0800	commit: Novel Data Ready for Dusk
+c9242383033e5fba64ace6f0322f66f531908ef7 d78fc91925e45731b7e4655e47561fee348bc4bb KC Harris <89766547+kch0p@users.noreply.github.com> 1669850303 -0800	commit: YOE DUSK completed
+d78fc91925e45731b7e4655e47561fee348bc4bb d5b6f767f20262b815f4de77eb2bd8017c0bb29f KC Harris <89766547+kch0p@users.noreply.github.com> 1669896091 -0800	commit: Location for SF
+d5b6f767f20262b815f4de77eb2bd8017c0bb29f d5b32b262518d89b66513ffe353df568786137f1 KC Harris <89766547+kch0p@users.noreply.github.com> 1670035545 -0800	commit: Final Analysis Ready
+d5b32b262518d89b66513ffe353df568786137f1 5bd2bd8f40dc387efdc28536cbd444d4c93a9ca6 KC Harris <89766547+kch0p@users.noreply.github.com> 1670407924 -0800	commit: Working splines in YOE logit models
+5bd2bd8f40dc387efdc28536cbd444d4c93a9ca6 387a4e6bb5bc51b1ac1d892dfeb0675aaf140033 KC Harris <89766547+kch0p@users.noreply.github.com> 1670408103 -0800	commit: Finished Working Splines for YOE time in logit models
+387a4e6bb5bc51b1ac1d892dfeb0675aaf140033 dbdb326a455a3848825e4e77be403a7fd58697d3 KC Harris <89766547+kch0p@users.noreply.github.com> 1670409372 -0800	commit: api revision
+dbdb326a455a3848825e4e77be403a7fd58697d3 cde3462f32aa67ec7fdae21c424acb1031488ab9 KC Harris <89766547+kch0p@users.noreply.github.com> 1670409559 -0800	commit: ignore checkpoints for key
+cde3462f32aa67ec7fdae21c424acb1031488ab9 76878b2b3f1c6f5eac6a0e0e2ea4e8df60f30367 KC Harris <89766547+kch0p@users.noreply.github.com> 1670914683 -0800	commit: Final Submission
+76878b2b3f1c6f5eac6a0e0e2ea4e8df60f30367 b95c74dc297f56862a4fb39edbdd4fbaa15e6610 KC Harris <89766547+kch0p@users.noreply.github.com> 1676607851 -0800	commit: Final Push

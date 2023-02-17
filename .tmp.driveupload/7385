@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 7c0d21d9ec4107fdfee5826c4f1f1ce3b8766d7f KC Harris <89766547+kch0p@users.noreply.github.com> 1668367263 -0800	branch: Created from origin/Simplified-V2.0
+7c0d21d9ec4107fdfee5826c4f1f1ce3b8766d7f 57edca0b1aa0608f0b9bbc29a0d1594a73f2c17d KC Harris <89766547+kch0p@users.noreply.github.com> 1668367398 -0800	commit: Kye
+57edca0b1aa0608f0b9bbc29a0d1594a73f2c17d e91c4957330be5c48f95f630a83ba58468cc7046 KC Harris <89766547+kch0p@users.noreply.github.com> 1668367463 -0800	commit: module with new functions
+e91c4957330be5c48f95f630a83ba58468cc7046 447229825e395381d019c46a8a307f18d3b2589b KC Harris <89766547+kch0p@users.noreply.github.com> 1668367497 -0800	commit: .py
+447229825e395381d019c46a8a307f18d3b2589b 00f7a557981924df197e4f381717803ff4bd9e27 KC Harris <89766547+kch0p@users.noreply.github.com> 1668369374 -0800	commit: Simplifying Dusk_Mins and adding Dawn/Sunrise
+00f7a557981924df197e4f381717803ff4bd9e27 36a1f1c7cd3b96e5bb30022fcd9120561582311c KC Harris <89766547+kch0p@users.noreply.github.com> 1668372622 -0800	commit: included after dawn and before dusk variables in expandced
+36a1f1c7cd3b96e5bb30022fcd9120561582311c 33c93a3d12447ad8afeeaa6dd6072ae08ac94e60 KC Harris <89766547+kch0p@users.noreply.github.com> 1668389316 -0800	commit: Got a working model
+33c93a3d12447ad8afeeaa6dd6072ae08ac94e60 0d97fc40af600fea44f081fb7b8eef23e3d5191a KC Harris <89766547+kch0p@users.noreply.github.com> 1668507139 -0800	commit: final working NOM+gv3 code
+0d97fc40af600fea44f081fb7b8eef23e3d5191a 54c9b29f122b81a3b05f4380ecdc792b0d92c611 KC Harris <89766547+kch0p@users.noreply.github.com> 1668544113 -0800	commit: lat lon conversion completed for LA ITP
+54c9b29f122b81a3b05f4380ecdc792b0d92c611 c9242383033e5fba64ace6f0322f66f531908ef7 KC Harris <89766547+kch0p@users.noreply.github.com> 1669833888 -0800	commit: Novel Data Ready for Dusk
+c9242383033e5fba64ace6f0322f66f531908ef7 d78fc91925e45731b7e4655e47561fee348bc4bb KC Harris <89766547+kch0p@users.noreply.github.com> 1669850303 -0800	commit: YOE DUSK completed
+d78fc91925e45731b7e4655e47561fee348bc4bb d5b6f767f20262b815f4de77eb2bd8017c0bb29f KC Harris <89766547+kch0p@users.noreply.github.com> 1669896091 -0800	commit: Location for SF
+d5b6f767f20262b815f4de77eb2bd8017c0bb29f d5b32b262518d89b66513ffe353df568786137f1 KC Harris <89766547+kch0p@users.noreply.github.com> 1670035545 -0800	commit: Final Analysis Ready
+d5b32b262518d89b66513ffe353df568786137f1 5bd2bd8f40dc387efdc28536cbd444d4c93a9ca6 KC Harris <89766547+kch0p@users.noreply.github.com> 1670407924 -0800	commit: Working splines in YOE logit models
+5bd2bd8f40dc387efdc28536cbd444d4c93a9ca6 387a4e6bb5bc51b1ac1d892dfeb0675aaf140033 KC Harris <89766547+kch0p@users.noreply.github.com> 1670408103 -0800	commit: Finished Working Splines for YOE time in logit models
+387a4e6bb5bc51b1ac1d892dfeb0675aaf140033 dbdb326a455a3848825e4e77be403a7fd58697d3 KC Harris <89766547+kch0p@users.noreply.github.com> 1670409372 -0800	commit: api revision
+dbdb326a455a3848825e4e77be403a7fd58697d3 cde3462f32aa67ec7fdae21c424acb1031488ab9 KC Harris <89766547+kch0p@users.noreply.github.com> 1670409559 -0800	commit: ignore checkpoints for key
+cde3462f32aa67ec7fdae21c424acb1031488ab9 76878b2b3f1c6f5eac6a0e0e2ea4e8df60f30367 KC Harris <89766547+kch0p@users.noreply.github.com> 1670914683 -0800	commit: Final Submission
+76878b2b3f1c6f5eac6a0e0e2ea4e8df60f30367 b95c74dc297f56862a4fb39edbdd4fbaa15e6610 KC Harris <89766547+kch0p@users.noreply.github.com> 1676607851 -0800	commit: Final Push
